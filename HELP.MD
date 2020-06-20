@@ -1,0 +1,1 @@
+After run 'pip instal ...' need to run 'pip3 freeze > requirements.txt'
