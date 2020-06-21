@@ -1,7 +1,7 @@
 {
   "python.autoComplete.extraPaths": [
-     "./web-application",
-     "./.env/lib/python3.7/site-packages"
+     "./web-application"
+    //  "${workspaceRoot}/.env/lib/python3.7/site-packages"
   ],
   "python.envFile": "${workspaceRoot}/env",
   "python.pythonPath": "${workspaceRoot}/env/bin/python3",
